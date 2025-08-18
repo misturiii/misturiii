@@ -1,8 +1,8 @@
 ## Hi there, I'm Rita 👋
 
-👩🏻‍🎓 I'm pursuing an Honour Bachelor Degree in Computer Science and Statistics at the University of Toronto<br/>
-👩🏻‍💻 My areas of interest include Web Development, Machine Learning, and Data Analysis<br/>
-🌷 I'm seeking opportunities for SDE, DS, DA internship or full-time positions<br/>
+👩🏻‍🎓 I'm pursuing a Master of Science Degree in Computer Science at the Georgia Institute of Technology.<br/>
+👩🏻‍💻 My areas of interest include AI and Machine Learning, Web Development, Product Management, and Data Analysis.<br/>
+🌷 I'm seeking opportunities for SDE, DS, DA internship or full-time positions.<br/>
 
 
 ## 👯 Find Me:
