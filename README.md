@@ -1,8 +1,8 @@
 ## Hi there, I'm Rita 👋
 
-👩🏻‍🎓 I'm pursuing a Master of Science Degree in Computer Science at the Georgia Institute of Technology.<br/>
+👩🏻‍🎓 I'm pursuing a Master of Science in Computer Science (focus in AI) at the Georgia Institute of Technology.<br/>
 👩🏻‍💻 My areas of interest include AI and Machine Learning, Web Development, Product Management, and Data Analysis.<br/>
-🌷 I'm seeking opportunities for SDE, DS, DA internship or full-time positions.<br/>
+🌷 I'm actively seeking full-time opportunities as an AI Engineer or Machine Learning Engineer.<br/>
 
 
 ## 👯 Find Me:
